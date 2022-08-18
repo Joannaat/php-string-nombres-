@@ -1,0 +1,23 @@
+h1 {
+	font-family: 'Pattaya', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #1f5404;
+	background-color: #aeec90;
+	border-style: solid;
+	border-color: orange;
+	background-clip: padding-box;
+
+}
+
+p {
+	font-family:'Pattaya', sans-serif;
+	font-size: 25px;
+	color: gray;
+	text-align: center;
+}
+.gout {
+	font-size: 30px;
+	color: red;
+
+}
